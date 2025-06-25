@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "%~dp0camera_manager.ps1" 
